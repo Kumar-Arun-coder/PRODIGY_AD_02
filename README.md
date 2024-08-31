@@ -1,17 +1,16 @@
-# PRODIGY_AD_02
-To-Do list App
+# To-Do list App
+
 
 ## Description
 
-Calculator App: A simple, intuitive, and easy-to-use app is created using a Python framework for developing multitouch applications, and uix extension to Kivy providing Material Design components & themes. The app allows users to perform Basic arithmetic operations , Supports decimal numbers and Clear and intuitive interface.
-
+To-Do list App: A simple, intuitive, and easy-to-use app is created using a Python framework for developing multitouch applications, and uix extension to Kivymd providing Material Design components & themes. The app allows users to perform add, edit and delete tasks.
 ## Features
 
-- Basic arithmetic operations: addition, subtraction, multiplication, division, power and percentage.
-- Supports decimal numbers and calculations.
+- User can add, edit and delete tasks.
+- in built calender to coose dates.
 - Clear and intuitive interface.
 - Responsive design for various screen sizes
-- Built with Python and Kivy library for cross-platform compatibility
+- Built with Python and Kivymd library for cross-platform compatibility
 
 
 ## Installation and Usage
@@ -19,13 +18,13 @@ Calculator App: A simple, intuitive, and easy-to-use app is created using a Pyth
 1. Clone this repository:
 
    ```bash
-   https://github.com/Kumar-Arun-coder/PRODIGY_AD_01
+   https://github.com/Kumar-Arun-coder/PRODIGY_AD_02
    ```
 
 2. Install dependencies using pip:
 
    ```bash
-   pip install kivy 
+   pip install kivymd 
    ```
 
 3. Run the application:
