@@ -37,16 +37,21 @@ To-Do list App: A simple, intuitive, and easy-to-use app is created using a Pyth
 
 ## Screenshots
 
-(![Calculator_Screenshot1](https://github.com/user-attachments/assets/6f65b625-9730-4ac8-848d-2951b4bbe300)
+(![Screenshot 2024-09-01 131108](https://github.com/user-attachments/assets/859a33a5-2b16-457d-a031-f9ab72c2924e)
 )
-(![Calculator_Screenshot2](https://github.com/user-attachments/assets/e280673e-f3fb-4422-bd52-701b2d99a79b)
+(![Screenshot 2024-08-31 181849](https://github.com/user-attachments/assets/a95de163-17f3-4d3d-b029-fc3737364741)
 )
-(![Calculator_Screenshot3](https://github.com/user-attachments/assets/c0d79ef6-aa20-41cb-baa9-ee871c6da8c5)
+
+(![Screenshot 2024-08-31 182010](https://github.com/user-attachments/assets/08c6c994-7062-4ea8-9911-1edea4973dca)
+)
+(![Screenshot 2024-08-31 182449](https://github.com/user-attachments/assets/a5abe16c-1d49-431b-a3ca-1811262c8240)
+)
+(![Screenshot 2024-08-31 182507](https://github.com/user-attachments/assets/5813bfa2-ea60-485e-a731-627518bfa42e)
 )
 
 ## Dependencies
 
-- [Kivy](https://kivy.org/)
+- [Kivymd](https://kivymd.org/)
 
 ## Contributing
 
