@@ -26,6 +26,9 @@ To-Do list App: A simple, intuitive, and easy-to-use app is created using a Pyth
    ```bash
    pip install kivymd 
    ```
+   ```bash
+   pip install sql
+   ```
 
 3. Run the application:
 
@@ -52,6 +55,7 @@ To-Do list App: A simple, intuitive, and easy-to-use app is created using a Pyth
 ## Dependencies
 
 - [Kivymd](https://kivymd.org/)
+- [Sql](https://sql.com/)
 
 ## Contributing
 
